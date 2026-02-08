@@ -1,0 +1,4 @@
+customer_id,Recency,Frequency,Monetary,RFM_Score,RFM_Segment,Customer_Value,Purchase_Behavior,Last_Purchase_Month
+1,5,3,100,8,Loyal,Medium Value,Regular,2023-12-27
+2,10,7,200,11,Champions,High Value,Frequent,2023-12-22
+3,15,1,50,3,At Risk,Low Value,Occasional,2023-12-17
